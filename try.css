@@ -1,0 +1,91 @@
+body{
+	background-image: URL("https://i2.wp.com/files.123freevectors.com/wp-content/original/130887-blue-polygon-background-design-graphic.jpg?w=800&q=95");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.one{
+	font-family: comic sans ms;
+	font-size: 30px;
+	padding: 25px;
+	margin-left: 5%; 
+	color: #1b4d80;
+}
+
+.para1{
+	background-color: #f2f2f2;
+	opacity:60%;
+	padding: 25px;
+	width:80%;
+	font-family: Lucida Sans Unicode;
+	margin-left: 5%;
+}
+
+.head{
+	font-family: comic sans ms;
+	color: #2b3852;
+	padding: 25px;
+	font-size: 20px;
+}
+
+.para2{
+	width: 60%;
+	color:#1d3463;
+	padding-left: 25px;
+	padding-top: 10px;
+}
+.button{
+    color: #0d2861;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding:5px 50px;
+    font-size: 25px;
+    margin-top:10%; 
+}
+  .order{
+      border: 1px solid skyblue;
+      color: white;
+      top: 70px; 
+      text-align: center;
+      width: 50%;
+      background-image: url("https://img4.goodfon.com/wallpaper/nbig/d/b1/abstract-dark-blue-polygonal-background-abstraktsiia-geometr.jpg");
+      box-shadow: 3px 3px #33ffd6;
+      }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    align-content: space-between;
+    padding: 10px;
+    margin:10px 0 10px 10px;
+    margin-left: 5%;
+    margin-right: 6%;
+
+ }
+.grid-item {
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 70%;
+	background-image: url("https://www.oodlesthemes.com/wp-content/uploads/2017/10/OO0122373-Blue-abstract-background-design-copy-copy.jpg");
+    margin:10px 0 10px -10px;
+    width: 75%;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    grid-row-gap: 20px;
+    text-align: left;
+    border-radius: 50px;
+  }
+  img{
+    width: 30px;
+    height: 25px;
+    padding:10px 5px 5px 5px;
+    margin-top:20px;
+    margin-right:20px;
+}
+.nospace{
+      
+      padding-top: -50px;
+  }
